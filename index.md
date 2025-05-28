@@ -1,9 +1,2 @@
-# 私のGitHubプロフィールへようこそ
+![Yaktocatの画像](https://octodex.github.com/images/yaktocat.png)
 
-## 自己紹介
-こんにちは！私はたけだです。
-
-## スキル
-- Swift
-- Python
-- GitHub
